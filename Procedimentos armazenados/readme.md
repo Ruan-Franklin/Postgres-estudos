@@ -48,7 +48,7 @@ Você pode chamar a função criada utilizando a seguinte sintaxe:
 
 ```
 SELECT saudacao('Joao'); --retorna "Olá, João! Bem-vindo ao PostgreSQL."
-
+```
 
 Exemplo de comando para visualizar procedimentos armazenados:
 

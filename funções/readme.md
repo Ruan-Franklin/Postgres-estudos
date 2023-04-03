@@ -9,7 +9,7 @@ Funções escalares são aquelas que operam em único valor de entrada e produze
 - `UPPER(string)`: Converte uma string em maiúsculas
 - `LOWER(string)`: Converte uma string em minúsculas
 - `LENGTH(string)`: Retorna o comprimento de uma string
-- `ROUND(value, decimal_places)´: Arredonda um número para um número especificado de casas decimais
+- `ROUND(value, decimal_places)`: Arredonda um número para um número especificado de casas decimais
 - `TRIM(string)`: Remove os espaços em branco no início e no final de uma string
 - `NOM()`: Retorna a data e hora atuais
 - `DATE_PART('part',data)`: Retorna a parte especificada (como ano, mês, dia, hora, minuto, etc.) de uma data.
